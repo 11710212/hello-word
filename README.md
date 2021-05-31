@@ -1,2 +1,1 @@
-# hello-word
-mamedo
+i validation  bobo
